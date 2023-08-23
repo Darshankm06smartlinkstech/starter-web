@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <Darsh> -- <Dev> -- <darsh08>
 
 # THANKS
 
